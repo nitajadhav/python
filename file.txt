@@ -1,0 +1,6 @@
+r	Opens a file for reading only. The file pointer is placed at the beginning of the file. This is the default mode.
+rb	Opens a file for reading only in binary format. The file pointer is placed at the beginning of the file. This is the default mode.
+r+	Opens a file for both reading and writing. The file pointer placed at the beginning of the file.
+rb+	Opens a file for both reading and writing in binary format. The file pointer placed at the beginning of the file.
+w	Opens a file for writing only. Overwrites the file if the file exists. If the file does not exist, creates a new file for writing.
+wb	Opens a file for writing only in binary format. Overwrites the file if the file exists. If the file does not exist, creates a new fisome new text insertedsome new text insertedsome new text insertedsome new text insertedsome new text inserted*******some new text inserted*******some new text inserted*******some new text inserted*******some new text inserted*******some new text inserted*******some new text inserted*******
