@@ -1,4 +1,4 @@
-"try-catch-finaly"
+"try-catch-finally"
 try:
 	file=open("newFile.txt","w");
 	raise Exception("exception occured")
